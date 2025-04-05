@@ -20,4 +20,4 @@ A sudoku solution must satisfy all of the following rules: <br />
 - **Styling:** CSS  
 
 ## Sudoku FastAPI React Gameplay
-![](https://github.com/tk2558/Sudoku_Fast_React/blob/main/SudokuApp.gif))
+![](https://github.com/tk2558/Sudoku_Fast_React/blob/main/SudokuApp.gif)
